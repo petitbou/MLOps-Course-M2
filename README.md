@@ -28,4 +28,8 @@ make -C project/ml_microservice run
 
 # run tests
 make -C project/ml_microservice test
+
+
+
+https://huggingface.co/B2lmb/sentiment_distilbert/commit/ead453e28d5795d863ffe132b2b24e0ba9b66b3b
 ```
